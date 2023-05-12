@@ -1,5 +1,5 @@
 {
-    "name": "jaeger/querylist-absolute-url",
+    "name": "wenhainan/querylist-absolute-url",
     "description": "QueryList Plugin: Converting relative urls to absolute.QueryList插件:转换URL相对路径到绝对路径.",
     "require": {
         "PHP":">=7.0"
